@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="number_of_pax">Number of Pax</string>
+    <string name="discount">Discount</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">Paynow</string>
+</resources>
